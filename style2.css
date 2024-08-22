@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+    
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+
+  color: white;
+ text-decoration:none
+
+}
+
+small{
+    font-size: 15px;
+}
+
+div{
+    text-align: center;
+}
